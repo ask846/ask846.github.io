@@ -1,4 +1,4 @@
-@import url(http://fonts.googleapis.com/css?family=PT+Sans);
+
 body {
   background-image: url("ask846.github.io/old-vegetables-veggies-health-healthy-cabbage-1418869-pxhere.com.jpg");
   background-repeat: no-repeat;
@@ -7,11 +7,9 @@ body {
 }
 h1 {
   color: Black;
-  font-family: 'Permanent Marker';
   font-size: 32px;
 }
 p {
-  font-family: 'Permanent Marker';
   font-size: 30px;
   color: grey;
 }
